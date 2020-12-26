@@ -1,0 +1,14 @@
+C:\Users\kmcha\Desktop\Assignment4CB11\Assignment4CB11\bin\Debug\Assignment4CB11.exe.config
+C:\Users\kmcha\Desktop\Assignment4CB11\Assignment4CB11\bin\Debug\Assignment4CB11.exe
+C:\Users\kmcha\Desktop\Assignment4CB11\Assignment4CB11\bin\Debug\Assignment4CB11.pdb
+C:\Users\kmcha\Desktop\Assignment4CB11\Assignment4CB11\obj\Debug\Assignment4CB11.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\Assignment4CB11\Assignment4CB11\obj\Debug\Assignment4CB11.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\Assignment4CB11\Assignment4CB11\obj\Debug\Assignment4CB11.exe
+C:\Users\kmcha\Desktop\Assignment4CB11\Assignment4CB11\obj\Debug\Assignment4CB11.pdb
+C:\Users\kmcha\Desktop\Lessons\0. Projects\5thAssign4_25.11.2020\Assignment4CB11\Assignment4CB11\bin\Debug\Assignment4CB11.exe.config
+C:\Users\kmcha\Desktop\Lessons\0. Projects\5thAssign4_25.11.2020\Assignment4CB11\Assignment4CB11\bin\Debug\Assignment4CB11.exe
+C:\Users\kmcha\Desktop\Lessons\0. Projects\5thAssign4_25.11.2020\Assignment4CB11\Assignment4CB11\bin\Debug\Assignment4CB11.pdb
+C:\Users\kmcha\Desktop\Lessons\0. Projects\5thAssign4_25.11.2020\Assignment4CB11\Assignment4CB11\obj\Debug\Assignment4CB11.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\Lessons\0. Projects\5thAssign4_25.11.2020\Assignment4CB11\Assignment4CB11\obj\Debug\Assignment4CB11.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\Lessons\0. Projects\5thAssign4_25.11.2020\Assignment4CB11\Assignment4CB11\obj\Debug\Assignment4CB11.exe
+C:\Users\kmcha\Desktop\Lessons\0. Projects\5thAssign4_25.11.2020\Assignment4CB11\Assignment4CB11\obj\Debug\Assignment4CB11.pdb
